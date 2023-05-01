@@ -1,0 +1,5 @@
+"client": bibi222000111,
+"items":[
+{"name":Vegan shawarma wrap,"price": 42.0,"quantity": 1,"total": 42.0},
+{"name":Falafel plate,"price": 35.0,"quantity": 2,"total": 70.0},
+],"grandTotal": 112.0

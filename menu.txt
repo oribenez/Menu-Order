@@ -1,0 +1,78 @@
+Spaghetti Napolitana
+Starters
+60
+Bruschetta
+Starters
+25
+Caprese salad
+Starters
+35
+Caesar salad
+Starters
+40
+French onion soup
+Starters
+25
+Garlic bread
+Starters
+30
+Hummus
+Starters
+40
+Falafel plate
+Main Meals
+35
+Vegan shawarma wrap
+Main Meals
+42
+Quinoa salad bowl
+Main Meals
+45
+Lentil soup and bread
+Main Meals
+32
+Tofu stir-fry with vegetables
+Main Meals
+48
+Chickpea curry with rice
+Main Meals
+40
+Vegan mushroom and spinach lasagna
+Main Meals
+55
+Grilled portobello mushroom burger
+Main Meals
+50
+Vegan sushi rolls
+Main Meals
+60
+Vegan Chocolate Cake
+Desserts
+28
+Chocolate Chip Cookies
+Desserts
+12
+Peanut Butter Brownies
+Desserts
+18
+Fruit Salad with Coconut Whipped Cream
+Desserts
+20
+Cinnamon Apple Crisp
+Desserts
+32
+Limonana
+Beverages
+18
+Goldstar beer - 1/2
+Beverages
+30
+Wine from the Golan Heights Winery
+Beverages
+40
+Coffee
+Beverages
+15
+Tea
+Beverages
+12

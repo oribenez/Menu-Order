@@ -1,0 +1,7 @@
+"client": Ori208932423,
+items:[
+{"name":Spaghetti Napolitana,"price": 60.0,"quantity": 1,"total": 60.0},
+{"name":Bruschetta,"price": 25.0,"quantity": 1,"total": 25.0},
+{"name":Hummus,"price": 40.0,"quantity": 1,"total": 40.0},
+{"name":Falafel plate,"price": 35.0,"quantity": 1,"total": 35.0},
+],"grandTotal": 160.0
